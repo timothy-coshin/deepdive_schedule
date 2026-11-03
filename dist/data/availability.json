@@ -1,0 +1,15 @@
+{
+  "updatedAt": "2026-11-03T09:15:15.956Z",
+  "displayTimezone": "Asia/Seoul",
+  "sources": {
+    "deepstation": {
+      "connected": false,
+      "state": "not_configured"
+    },
+    "paradive": {
+      "connected": false,
+      "state": "not_configured"
+    }
+  },
+  "slots": []
+}
